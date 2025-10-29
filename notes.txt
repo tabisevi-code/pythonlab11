@@ -1,7 +1,12 @@
 how are u guys doing today
 i am doing well
 Summary:
+<<<<<<< HEAD
 im still doing my python lab
 
 insights:
 i wonder when i will finish this python lab
+=======
+I am doing a python lab currently.
+
+>>>>>>> feature/summarize
